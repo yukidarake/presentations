@@ -11,3 +11,5 @@ class: center, middle, inverse
 ぜひ使いましょう👍
 
 ---
+
+# 完
